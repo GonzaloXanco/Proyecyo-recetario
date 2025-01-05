@@ -1,0 +1,27 @@
+.list{
+    background-color: azure;
+    align-items: center ;
+    height: 20vh;
+    padding: 40px;
+    padding-left: 125px;
+    padding-bottom: 75px;
+}
+
+button{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px;
+    padding: 8px 12px;
+}
+
+h4{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-decoration:underline ;
+}

@@ -1,0 +1,25 @@
+.hero{
+    background-image: url(./img1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 60vh;
+}
+
+.text{
+    position: absolute;
+    width: 50%;
+    align-items: center;
+    top: 30%;
+    left: 40%;
+    color: white;
+}
+
+h3{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
